@@ -1,7 +1,11 @@
-# Monotonic Regulation Conditions Functions Count
-By Bar Zomer and Ziv Chaba
+# Biological Computation - Final Project
+## Authors
+* Ziv Chaba
+* Bar Zomer
+
+Questions can be directed to zivchaba1000@gmail.com
 ## Assignment
-In this Project, we wrote a python code that finds all the monotonic regulation conditions of the reasoning engine that satisfy monotonic requirement and consider whether none, some or all of the activators / inhibitors are present, as we studied in class.
+In the first part of the project, we wrote a python code that finds all the monotonic regulation conditions of the reasoning engine that satisfy monotonic requirement and consider whether none, some or all of the activators / inhibitors are present, as we studied in class.
 
 We found 18 monotonic regulation conditions, as expected in the assignment file, and compared it with given table of the assignment.
 
@@ -24,6 +28,9 @@ committing monotonicity-preserving operations for boolean functions - AND , OR, 
 
 Finally, the code outputs a list of all monotonic functions it has calculated for the system, and for each instance - whether it will activate or not (target=True/False).
 
+## Results
+The output of the program is as follows:
+
 ![Part 1 Program Printout](https://github.com/user-attachments/assets/3893bf86-25c6-4f68-97d7-d396d4feb366)
 
 we have organzied our output, ordered it in accordance with given table's ordering, and visualized it:
@@ -31,6 +38,7 @@ we have organzied our output, ordered it in accordance with given table's orderi
 ![image (5)](https://github.com/user-attachments/assets/48f79311-2d9e-403c-a97f-0bcdb3db7294)
 
 And as you can see, it corresponds with the expected results in the given table:
+
 ![image (6)](https://github.com/user-attachments/assets/4dc36535-2def-4b1e-917d-153b231b3bb5)
 
 
