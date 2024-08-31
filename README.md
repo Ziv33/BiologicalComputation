@@ -31,11 +31,11 @@ we have organzied our output, ordered it in accordance with given table's orderi
 ![image (5)](https://github.com/user-attachments/assets/48f79311-2d9e-403c-a97f-0bcdb3db7294)
 
 And as you can see, it corresponds with the expected results in the given table:
-![Table D]![image (6)](https://github.com/user-attachments/assets/4dc36535-2def-4b1e-917d-153b231b3bb5)
+![image (6)](https://github.com/user-attachments/assets/4dc36535-2def-4b1e-917d-153b231b3bb5)
 
 
 
-## How to Run
+## How To Run The Program
 * Download BasicSystem.py , main.py to your local computer.
 * Open command line at their location
 * run the command   *python main.py*
