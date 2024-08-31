@@ -35,7 +35,7 @@ The output of the program is as follows:
 
 we have organzied our output, ordered it in accordance with given table's ordering, and visualized it:
 
-![image (5)](https://github.com/user-attachments/assets/48f79311-2d9e-403c-a97f-0bcdb3db7294)
+![image (7)](https://github.com/user-attachments/assets/9f55967b-aaf2-4dac-b398-0491fc34b24f)
 
 And as you can see, it corresponds with the expected results in the given table:
 
